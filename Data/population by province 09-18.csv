@@ -1,6 +1,3 @@
-Database???Annual by Province
-Indicators£ºResident Population (year-end)(10000 persons)
-Year£ºLATEST10
 Region,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009
 Beijing,2154,2171,2173,2171,2152,2115,2069,2019,1962,1860
 Tianjin,1560,1557,1562,1547,1517,1472,1413,1355,1299,1228
@@ -32,6 +29,4 @@ Shaanxi,3864,3835,3813,3793,3775,3764,3753,3743,3735,3727
 Gansu,2637,2626,2610,2600,2591,2582,2578,2564,2560,2555
 Qinghai,603,598,593,588,583,578,573,568,563,557
 Ningxia,688,682,675,668,662,654,647,639,633,625
-Xinjiang,2487,2445,2398,2360,2298,2264,2233,2209,2185,2159
-"Note:Population data for 2000 and 2001 are estimated on the basis of population census, the rest of the data are estimated on the basis of the annual national sample surveys on population changes. Population data by region are permanent resident population since 2005."
-Data Sources£ºNational Bureau of Statistics
+Xinjiang,2487,2445,2398,2360,2298,2264,2233,2209,2185,2159.
