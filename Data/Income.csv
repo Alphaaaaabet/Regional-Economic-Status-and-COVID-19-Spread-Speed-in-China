@@ -1,7 +1,7 @@
 Database???Annual by Province
-Indicators£ºPer Capita Disposable Income Nationwide(yuan)
-Year£ºLATEST10
-Region,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009
+IndicatorsÂ£ÂºPer Capita Disposable Income Nationwide(yuan)
+YearÂ£ÂºLATEST10
+Region,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,,,,
 Beijing,62361.22,57229.83,52530.38,48457.99,44488.57,40830.04,,,,
 Tianjin,39506.15,37022.33,34074.46,31291.36,28832.29,26359.20,,,,
 Hebei,23445.65,21484.13,19725.42,18118.09,16647.40,15189.64,,,,
@@ -33,4 +33,4 @@ Gansu,17488.39,16011.00,14670.31,13466.59,12184.71,10954.40,,,,
 Qinghai,20757.26,19001.02,17301.76,15812.70,14373.98,12947.84,,,,
 Ningxia,22400.42,20561.66,18832.28,17329.09,15906.78,14565.78,,,,
 Xinjiang,21500.24,19975.10,18354.65,16859.11,15096.62,13669.62,,,,
-Data Sources£ºNational Bureau of Statistics
+Data SourcesÂ£ÂºNational Bureau of Statistics
