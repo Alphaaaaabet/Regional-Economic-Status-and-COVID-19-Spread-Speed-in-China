@@ -1,5 +1,4 @@
-,Province/Region/City,"Population (10,000s)",Daily,,,,,Cumulative,,,,
-Date,,,Lab-confirmed,Clinically diagnosed,Total Cases,Suspected Cases,Deaths,Lab-confirmed,Clinically diagnosed,Total Cases,Deaths,Number of Records
+Date,Province/Region/City,"Population (10,000s)",Lab-confirmed,Clinically diagnosed,Total Cases,Suspected Cases,Deaths,Lab-confirmed 1,Clinically diagnosed,Total Cases 1,Deaths 1,Number of Records
 14 February 2020,Hubei,5917,1728,3095,4823,1154,1318,36602,15384,51986,116,1
 14 February 2020,Guangdong,11346,20,-,20,8,2,1261,-,1261,0,1
 14 February 2020,Henan,9605,15,-,15,207,11,1184,-,1184,1,1
